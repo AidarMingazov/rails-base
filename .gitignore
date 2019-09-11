@@ -13,4 +13,4 @@ vendor/ruby
 .pryrc
 .DS_Store
 .byebug_history
-/config/master.key
+config/master.key
